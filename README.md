@@ -18,8 +18,7 @@ The main goal is to compare different models under varying feature selection set
 ## 📊 Dataset
 The RT-IoT2022 dataset contains realistic IoT network traffic data including normal and attack behaviours.
 
-Source:  
-https://archive.ics.uci.edu/dataset/942/rt-iot2022
+
 
 ---
 
